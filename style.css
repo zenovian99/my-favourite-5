@@ -1,0 +1,63 @@
+body{
+  background: rgb(131,58,180);
+  text-align:center;
+  background-repeat:no-repeat;
+}
+#image1{
+  border-radius:50%;
+  width:250px;
+    margin-top:60px;
+}
+h1{
+  text-shadow : 2px 2px #E040FB;
+  font-size:30px;
+}
+h2{
+  text-shadow : 2px 2px #E040FB;
+  font-size:30px;
+} p{
+  font size:40px;
+  color:#FF4081;
+}
+.menu{
+    width: 100%;
+    position;fixed;
+    top:0px;
+    margin-top:0px;
+    z-index: 10;
+}
+.links{
+    float: left;
+    color: cyan;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 20px;
+}
+.links:hover{
+    background-color: cornflowerblue;
+}
+ a{
+    color: crimson;
+    text-shadow: none;
+}
+}
+html{
+scroll-behavior: smooth;
+}
+.article:hover{
+    color: cyan;
+}
+   h3{
+    display: inline;
+}
+  #CONTACT{
+    background-color:chartreuse;   
+}
+    #WRITINGS a{
+    text-shadow: none!important;
+    text-decoration: underline!important;
+    color: deeppink!important;
+    }
